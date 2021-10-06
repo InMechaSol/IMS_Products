@@ -1,2 +1,2 @@
 # IMS_Products
-Official IMS Products linked and tracked via Configuration Management or Enterprise Resource Planning
+IMS and Partner Products linked and tracked via Configuration Management and Enterprise Resource Planning systems
